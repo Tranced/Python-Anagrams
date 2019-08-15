@@ -33,3 +33,8 @@ anagrams.getAnagram('a') # will return -> ['a','A']
 
 ## Running it with the bash file
 Make sure python3 is in your path!
+
+and run: 
+```bash
+./runAnagrams.sh
+```
